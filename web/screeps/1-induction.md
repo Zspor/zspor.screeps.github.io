@@ -8,8 +8,10 @@
 1. A
 2. B
 3. C
+creeps:spawn产生的 Game.spawns['Spawn1']
 4. D
 5. E
+energy source 黄色小方块 能被有WORK部分收获并由CARRY携带
 6. F
 7. G
 8. H
